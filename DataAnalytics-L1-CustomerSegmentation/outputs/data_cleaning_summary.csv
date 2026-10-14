@@ -1,0 +1,8 @@
+Metric,Value
+Original rows,541909
+Rows after removing duplicates and missing CustomerID,See cleaned processing steps
+Rows after excluding cancellations and invalid purchases,392692
+Unique customers,4338
+Unique invoices,18532
+Total sales value,8887208.89
+Average transaction value,22.63

@@ -1,0 +1,5 @@
+Cluster,CustomerCount,AvgRecencyDays,AvgFrequency,AvgMonetary,MedianMonetary
+0,1377,58.6,1.51,384.22,341.36
+1,573,20.32,15.81,9799.78,4507.01
+2,938,259.92,1.37,385.39,294.18
+3,1450,46.58,4.21,1642.33,1315.95
