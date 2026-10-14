@@ -1,0 +1,15 @@
+Column,Data_Type,Missing_Values,Unique_Values
+crim,float64,0,504
+zn,float64,0,26
+indus,float64,0,76
+chas,int64,0,2
+nox,float64,0,81
+rm,float64,0,446
+age,float64,0,356
+dis,float64,0,412
+rad,int64,0,9
+tax,int64,0,66
+ptratio,float64,0,46
+b,float64,0,357
+lstat,float64,0,455
+medv,float64,0,229
