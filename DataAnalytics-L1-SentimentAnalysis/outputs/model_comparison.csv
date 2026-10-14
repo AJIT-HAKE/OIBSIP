@@ -1,0 +1,3 @@
+Model,Accuracy,Weighted Precision,Weighted Recall,Weighted F1
+Naive Bayes,0.6905,0.6223014956191751,0.6905,0.568173872466333
+Logistic Regression,0.783,0.7565442486060111,0.783,0.7403829023070814
