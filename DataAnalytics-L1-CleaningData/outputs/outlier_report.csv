@@ -1,0 +1,5 @@
+Column,Q1,Q3,IQR,Lower_Bound,Upper_Bound,Outlier_Count,Decision
+Age,22.0,35.0,13.0,2.5,54.5,66,Retained for analysis; extreme values may be genuine
+Fare,7.9104,31.0,23.0896,-26.724,65.6344,116,Retained for analysis; extreme values may be genuine
+SibSp,0.0,1.0,1.0,-1.5,2.5,46,Retained for analysis; extreme values may be genuine
+Parch,0.0,0.0,0.0,0.0,0.0,213,Retained for analysis; extreme values may be genuine
